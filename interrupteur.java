@@ -13,10 +13,10 @@ public class interrupteur {
       public String getPosition() {
           if(position)
           {
-              return "On";
+              return "iraka";
           }
           else
-          return "Off";
+          return "irajimije";
           
       }
 
