@@ -14,7 +14,7 @@ public class lampe {
 
     public void ChangeEtat() {
         this.Etat=!this.Etat;
-        
+      
     }
 
 
